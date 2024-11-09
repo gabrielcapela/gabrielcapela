@@ -9,7 +9,7 @@ I seek to contribute to research and the creation of solutions for various probl
 Bachelor's degree in Naval Sciences from the Naval Academy and a postgraduate degree in Operations and Logistics Management from the Federal University of Rio Grande.
 I hold the position of Captain-Lieutenant of the Marine Corps of the Brazilian Navy, leading a team of around 110 men and with more than 600 days of work in operations. This experience taught me the fundamental values of leadership, teamwork, and resilience.
 
-**Background in:** Mathematics, Python, Operational Research Leadership and Military Operations.
+**Background in:** Mathematics, Python, Operational Research, Leadership and Military Operations.
 
 
 
