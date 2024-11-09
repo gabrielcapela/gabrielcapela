@@ -1,7 +1,6 @@
   <img src="interestelar_cover.jpg" >
 </p>
 
-### Gabriel Capela
 
 Data Science enthusiast, I have a multidisciplinary background and am interested in the areas of Data Science, development with Python, and Operational Research.
 I seek to contribute to research and the creation of solutions for various problems, generating insights that support decision-making.
