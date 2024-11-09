@@ -1,16 +1,30 @@
-## Hi there 👋
+  <img src="interestelar_cover.jpg" >
+</p>
 
-<!--
-**gabrielcapela/gabrielcapela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Gabriel Capela
 
-Here are some ideas to get you started:
+Data Science enthusiast, I have a multidisciplinary background and am interested in the areas of Operational Research, development with Python, and Data Science.
+I seek to contribute to research and the creation of solutions for various problems, generating insights that support decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Bachelor's degree in Naval Sciences from the Naval Academy and a postgraduate degree in Operations and Logistics Management from the Federal University of Rio Grande.
+I hold the position of Captain-Lieutenant of the Marine Corps of the Brazilian Navy, leading a team of around 110 men and with more than 600 days of work in operations. This experience taught me the fundamental values of leadership, teamwork, and resilience.
+
+**Background in:** Operational Research, Python, Leadership and Military Operations.
+
+
+
+### Links:
+
+* [LinkedIn](https://www.linkedin.com/in/gabrielcapela)
+* [Medium](https:) (Loading...)
+
+
+### **Projects**
+#### Airbnb Data Analysis-Barcelona:
+https://bit.ly/3ysvskw
+Uma análise dos dados retirados do [Inside Airbnb](http://insideairbnb.com/get-the-data.html), com o intuito de treinar técnicas de tratamento e limpeza de dados e verificar as relações existentes entre as diversas variáveis de modo a extrair informações relevantes.
+
+
+
+* **
+---
