@@ -19,11 +19,12 @@ I hold the position of Captain-Lieutenant of the Marine Corps of the Brazilian N
 
 
 ### **Projects**
-#### Airbnb Data Analysis-Barcelona:
+#### Airbnb Data Analysis-Barcelona
 https://bit.ly/3ysvskw
 Uma análise dos dados retirados do [Inside Airbnb](http://insideairbnb.com/get-the-data.html), com o intuito de treinar técnicas de tratamento e limpeza de dados e verificar as relações existentes entre as diversas variáveis de modo a extrair informações relevantes.
 
-
+#### Panorama_Covid-19 até 2024
+Uma análise exploratória de dados sobre o Covid-19 e um enfoque no Brasil. Diversos tipos de gráficos foram gerados, com dados proveniente da  [Our World in Data](https://ourworldindata.org) e atualizados até agosto de 2024.
 
 * **
 ---
