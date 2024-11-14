@@ -21,10 +21,10 @@ I hold the position of Captain-Lieutenant of the Marine Corps of the Brazilian N
 ### **Projects**
 
 #### [Airbnb Data Analysis-Barcelona](https://github.com/gabrielcapela/Airbnb_Barcelona.git)
-Uma análise de dados retirados do [Inside Airbnb](http://insideairbnb.com/get-the-data.html), com o intuito de treinar técnicas de tratamento e limpeza de dados e verificar as relações existentes entre as diversas variáveis de modo a extrair informações relevantes.
+An analysis of data taken from the [Inside Airbnb](http://insideairbnb.com/get-the-data.html), with the aim of training data processing and cleaning techniques and verifying the relationships between the various variables in order to extract relevant information.
 
-#### [ Panorama_Covid-19 até 2024](https://github.com/gabrielcapela/Panorama_Covid-19.git)  
-Uma análise exploratória de dados sobre o Covid-19 e um enfoque no Brasil. Diversos tipos de gráficos foram gerados, com dados proveniente da  [Our World in Data](https://ourworldindata.org) e atualizados até agosto de 2024.
+#### [ Covid-19 overwiew until 2024](https://github.com/gabrielcapela/Panorama_Covid-19.git)  
+An exploratory analysis of data on Covid-19 with a focus on Brazil. Several types of graphs were generated, with data from [Our World in Data](https://ourworldindata.org) and updated until August 2024.
 
 * **
 ---
