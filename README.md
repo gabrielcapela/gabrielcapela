@@ -10,13 +10,14 @@ I hold the position of Captain-Lieutenant of the Marine Corps of the Brazilian N
 
 **Background in:** Mathematics, Python, Operational Research, Leadership and Military Operations.
 
-
-
+https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white
+https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white
 ### Links:
 
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/gabrielcapela)
 [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@gabrielcapela)
 [<img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719" />](https://gabrielcapela.substack.com/)
-* [LinkedIn](https://www.linkedin.com/in/gabrielcapela)
+[<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/gabrielcapela/)
 
 * [Curriculum Lattes](http://lattes.cnpq.br/9498483432817080)
 
