@@ -14,8 +14,10 @@ I hold the position of Captain-Lieutenant of the Marine Corps of the Brazilian N
 
 ### Links:
 
+[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@gabrielcapela)
+[<img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719" />](https://gabrielcapela.substack.com/)
 * [LinkedIn](https://www.linkedin.com/in/gabrielcapela)
-* [Medium](https:) (Loading...)
+
 * [Curriculum Lattes](http://lattes.cnpq.br/9498483432817080)
 
 ### **Projects**
