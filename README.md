@@ -2,7 +2,7 @@
 </p>
 
 
-- :computer: Data science enthusiast, I research machine learning and Operational Research
+- :computer: Data scientist, I research machine learning and Operational Research
 - :brazil: Living in Rio de Janeiro
 - :writing_hand: Write blogs on [Medium](https://medium.com/@gabrielcapela) and [Substack](https://gabrielcapela.substack.com/)
 - :chess_pawn: In my free time I usually lose a few chess games.
