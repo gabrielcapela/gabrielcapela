@@ -2,16 +2,15 @@
 </p>
 
 
-Data Science enthusiast, I have a multidisciplinary background and am interested in the areas of Data Science, development with Python, and Operational Research.
-I seek to contribute to research and the creation of solutions for various problems, generating insights that support decision-making.
+- :computer: Data science enthusiast, I research machine learning and Operational Research
+- :brazil: Living in Rio de Janeiro
+- :writing_hand: Write blogs on [Medium](https://medium.com/@gabrielcapela) and [Substack](https://gabrielcapela.substack.com/)
+- :chess_pawn: I usually lose a few chess games in my free time
+- :anchor: Bachelor's degree in Naval Sciences from the Naval Academy and a postgraduate degree in Operations and Logistics Management from the Federal University of Rio Grande.
 
-Bachelor's degree in Naval Sciences from the Naval Academy and a postgraduate degree in Operations and Logistics Management from the Federal University of Rio Grande.
-I hold the position of Captain-Lieutenant of the Marine Corps of the Brazilian Navy, leading a team of around 110 men and with more than 600 days of work in operations. This experience taught me the fundamental values of leadership, teamwork, and resilience.
+**Background in:** Mathematics, development with Python, Operational Research, Leadership and Military Operations.
 
-**Background in:** Mathematics, Python, Operational Research, Leadership and Military Operations.
 
-https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white
-https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white
 ### Links:
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/gabrielcapela)
@@ -19,7 +18,7 @@ https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoC
 [<img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719" />](https://gabrielcapela.substack.com/)
 [<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/gabrielcapela/)
 
-* [Curriculum Lattes](http://lattes.cnpq.br/9498483432817080)
+* :page_facing_up: [Curriculum Lattes](http://lattes.cnpq.br/9498483432817080)
 
 ### **Projects**
 
