@@ -13,7 +13,7 @@
 
 ### Links:
 
-* :page_facing_up: [Curriculum Lattes](http://lattes.cnpq.br/9498483432817080)
+* :page_facing_up: [Curriculum Vitae (Lattes)](http://lattes.cnpq.br/9498483432817080)
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/gabrielcapela)
 [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@gabrielcapela)
