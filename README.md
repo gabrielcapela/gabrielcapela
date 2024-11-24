@@ -1,4 +1,4 @@
-  <img src="interestelar_cover.jpg" >
+  <img src="image.PNG" >
 </p>
 
 
