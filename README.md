@@ -4,7 +4,7 @@
 
 - :computer: Data scientist, I research machine learning and Operational Research
 - :brazil: Living in Rio de Janeiro
-- :writing_hand: Write blogs on [Medium](https://medium.com/@gabrielcapela) and [Substack](https://gabrielcapela.substack.com/)
+- :writing_hand: Write blogs on [Medium](https://medium.com/@gabrielcapela)
 - :chess_pawn: In my free time I usually lose a few chess games.
 - :anchor: Bachelor's degree in Naval Sciences from the Naval Academy and a postgraduate degree in Operations and Logistics Management from the Federal University of Rio Grande.
 
@@ -17,7 +17,6 @@
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/gabrielcapela)
 [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@gabrielcapela)
-[<img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719" />](https://gabrielcapela.substack.com/)
 [<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/gabrielcapela/)
 
 
