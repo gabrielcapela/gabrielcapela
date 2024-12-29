@@ -19,10 +19,10 @@
 [<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/gabrielcapela/)
 
 
-### **Projects**
+### Projects
 
 #### [Credit Card Fraud Detection](https://github.com/gabrielcapela/Credit-Card-Fraud-Detection-.git)
-A project using machine learning classification algorithms to detect credit card fraud in a dataset of over 280,000 transactions.
+A project using machine learning classification algorithms to detect credit card fraud in a dataset of over 280,000 transactions from European cardholders.
 
 #### [Airbnb Data Analysis-Barcelona](https://github.com/gabrielcapela/Airbnb_Barcelona.git)
 An analysis of data taken from the [Inside Airbnb](http://insideairbnb.com/get-the-data.html), with the aim of training data processing and cleaning techniques and verifying the relationships between the various variables in order to extract relevant information.
