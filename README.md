@@ -5,9 +5,9 @@
 - :computer: Data Science, Machine Learning and Operational Research 
 - :brazil: Living in Rio de Janeiro
 - :writing_hand: Write blogs on [Medium](https://medium.com/@gabrielcapela)
-- :anchor: Bachelor's degree in Naval Sciences from the Naval Academy and a postgraduate degree in Operations and Logistics Management from the Federal University of Rio Grande.
+- :anchor: Bachelor's degree in Naval Sciences from the Naval School and postgraduate degree in Operations Management and Logistics from the Federal University of Rio Grande. I am currently studying Data Science at the Federal University of Mato Grosso do Sul.
 
-**Background in:** Mathematics, Python(development and ML), Operational Research, Leadership and Military Operations.
+**Background in:** Mathematics, Statistic, Python(development and ML), Operational Research, Leadership and Military Operations.
 
 
 ### Links:
@@ -20,6 +20,9 @@
 
 
 ### Projects
+
+#### [Churn-Prediction](https://github.com/gabrielcapela/Churn-Prediction.git)
+A machine learning project to predict customer churn in a telecommunications company. ML techniques such as Pipeline Optimization, Cross-Validation and Hyperparameter Tuning were used.
 
 #### [Credit Card Fraud Detection](https://github.com/gabrielcapela/Credit-Card-Fraud-Detection-.git)
 A project using machine learning classification algorithms to detect credit card fraud in a dataset of over 280,000 transactions from European cardholders.
