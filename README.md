@@ -2,12 +2,12 @@
 </p>
 
 
-- :computer: Data scientist, I research machine learning and Operational Research
+- :computer: Data Science, Machine Learning and Operational Research 
 - :brazil: Living in Rio de Janeiro
 - :writing_hand: Write blogs on [Medium](https://medium.com/@gabrielcapela)
 - :anchor: Bachelor's degree in Naval Sciences from the Naval Academy and a postgraduate degree in Operations and Logistics Management from the Federal University of Rio Grande.
 
-**Background in:** Mathematics, development with Python, Operational Research, Leadership and Military Operations.
+**Background in:** Mathematics,Python(development and ML), Operational Research, Leadership and Military Operations.
 
 
 ### Links:
