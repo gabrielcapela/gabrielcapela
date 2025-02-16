@@ -19,7 +19,7 @@
 [<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/gabrielcapela/)
 
 
-### Projects
+### Projects:
 
 #### [Churn-Prediction](https://github.com/gabrielcapela/Churn-Prediction.git)
 A machine learning project to predict customer churn in a telecommunications company. ML techniques such as Pipeline Optimization, Cross-Validation and Hyperparameter Tuning were used.
