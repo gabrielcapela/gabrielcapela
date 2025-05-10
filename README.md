@@ -7,7 +7,9 @@
 - :writing_hand: Write blogs on [Medium](https://medium.com/@gabrielcapela)
 - :anchor: Bachelor's degree in Naval Sciences from the Naval School and postgraduate degree in Operations Management and Logistics from the Federal University of Rio Grande. I am currently studying Data Science at the Federal University of Mato Grosso do Sul.
 
-**Background in:** Mathematics, Statistic, Python(development and ML), Operational Research, Leadership and Military Operations.
+**Background in:** Calculus, Python(development and ML), Operational Research, Leadership and Military Operations.
+
+---
 
 
 ### Links:
@@ -16,11 +18,15 @@
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/gabrielcapela)
 [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@gabrielcapela)
-[<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/gabrielcapela/)
-
+<!-- Este é um comentário e não será exibido
+[<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/gabrielcapela/)  -->
+---
 ### Projects:
 
-#### [Churn-Prediction](https://github.com/gabrielcapela/Churn-Prediction.git)
+#### [Rent Forecast Calculator](https://github.com/gabrielcapela/rent-predict-sp)
+An application that usese ML to predict the total housing cost of apartments in São Paulo, based on characteristics such as location, size, number of rooms, etc.
+
+#### [Churn Prediction](https://github.com/gabrielcapela/Churn-Prediction.git)
 A machine learning project to predict customer churn in a telecommunications company. ML techniques such as Pipeline Optimization, Cross-Validation and Hyperparameter Tuning were used.
 
 #### [Health Insurance Cost Prediction](https://github.com/gabrielcapela/AutoML_Regression.git)
