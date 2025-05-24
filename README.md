@@ -24,7 +24,7 @@
 ### Projects:
 
 #### [Rent Forecast Calculator](https://github.com/gabrielcapela/rent-predict-sp)
-An application that usese ML to predict the total housing cost of apartments in São Paulo, based on characteristics such as location, size, number of rooms, etc.
+An application that uses ML to predict the total housing cost of apartments in São Paulo, based on characteristics such as location, size, number of rooms, etc.
 
 #### [Churn Prediction](https://github.com/gabrielcapela/Churn-Prediction.git)
 A machine learning project to predict customer churn in a telecommunications company. ML techniques such as Pipeline Optimization, Cross-Validation and Hyperparameter Tuning were used.
