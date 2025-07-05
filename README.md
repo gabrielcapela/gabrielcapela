@@ -28,7 +28,7 @@
 
 | Project | Technologies | Description |
 |--------|--------------|-------------|
-| 🏠 [Rent Forecast Calculator](https://github.com/gabrielcapela/rent-predict-sp) | Python, Random Forest Regressor, Folium, Flask, Heroku | Predicts total housing costs in São Paulo using ML based on apartment features like location, size, and rooms. |
+| 🏠 [Rent Forecast Calculator](https://github.com/gabrielcapela/rent-predict-sp) | Python, Random Forest Regressor, Folium, Flask, Heroku | Interactive web application that predicts total housing costs in São Paulo using machine learning, based on features such as location, size, and number of rooms. |
 | 📉 [Churn Prediction](https://github.com/gabrielcapela/Churn-Prediction.git) | Python, Scikit-learn, Pipeline, Hyperparameter Tuning, VotingClassifier | Predicts customer churn in a telecom company using ML pipelines and cross-validation. |
 | 🏥 [Health Insurance Cost Prediction](https://github.com/gabrielcapela/AutoML_Regression.git) | Python, PyCaret, YDataProfiling | Solves a regression problem with AutoML to predict health insurance costs. |
 | 💳 [Credit Card Fraud Detection](https://github.com/gabrielcapela/Credit-Card-Fraud-Detection-.git) | Python, Scikit-learn | Detects fraud in a dataset with 280,000+ European credit card transactions. |
