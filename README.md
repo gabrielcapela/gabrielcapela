@@ -24,10 +24,11 @@
 * :page_facing_up: [Curriculum Vitae (Lattes)](http://lattes.cnpq.br/9498483432817080)
 ---
 
-### 🚀 Projects
+### 🚀 Main Projects
 
 | Project | Technologies | Description |
 |--------|--------------|-------------|
+| 🌾 [Dashboard CEPEA Forecast](https://github.com/gabrielcapela/dashboard-cepea) | Python, Streamlit, PostgreSQL, XGBoost, Docker, GitHub Actions | Full-stack app that scrapes agricultural prices from CEPEA, stores them in a PostgreSQL database, and uses machine learning to forecast future prices. Updated daily via automation. |
 | 🏠 [Rent Forecast Calculator](https://github.com/gabrielcapela/rent-predict-sp) | Python, Random Forest Regressor, Folium, Flask, Heroku | Interactive web application that predicts total housing costs in São Paulo using machine learning, based on features such as location, size, and number of rooms. |
 | 📉 [Churn Prediction](https://github.com/gabrielcapela/Churn-Prediction.git) | Python, Scikit-learn, Pipeline, Hyperparameter Tuning, VotingClassifier | Predicts customer churn in a telecom company using ML pipelines and cross-validation. |
 | 🏥 [Health Insurance Cost Prediction](https://github.com/gabrielcapela/AutoML_Regression.git) | Python, PyCaret, YDataProfiling | Solves a regression problem with AutoML to predict health insurance costs. |
