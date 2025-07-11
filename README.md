@@ -24,7 +24,7 @@
 * :page_facing_up: [Curriculum Vitae (Lattes)](http://lattes.cnpq.br/9498483432817080)
 ---
 
-### 🚀 Main Projects
+### Main Projects
 
 | Project | Technologies | Description |
 |--------|--------------|-------------|
