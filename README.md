@@ -9,7 +9,7 @@
 - :writing_hand: Write blogs on [Medium](https://medium.com/@gabrielcapela)
 - :anchor: Bachelor's degree in Naval Sciences from the Naval School and postgraduate degree in Operations Management and Logistics from the Federal University of Rio Grande. I am currently studying Data Science at the Federal University of Mato Grosso do Sul.
 
-**Background in:** Mathematics, Python (development and ML), Operational Research and Military Leadership.
+**Background in:** Mathematics, Python (development and ML), Operations Research and Military Leadership.
 
 ---
 
