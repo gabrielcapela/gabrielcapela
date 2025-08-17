@@ -8,15 +8,7 @@
 - :brazil: Living in Rio de Janeiro
 - :writing_hand: Write blogs on [Medium](https://medium.com/@gabrielcapela)
 
-  ### **Academic Background:**
-
-- Currently pursuing a Master’s degree in Operational Research at Fluminense Federal University (UFF)
-- Bachelor's degree in Naval Sciences with an emphasis in Electronics from the Brazilian Naval School
-- Postgraduate degree in Operations Management and Logistics from the Federal University of Rio Grande
-- Currently studying an Associate Degree in Data Science at the Federal University of Mato Grosso do Sul (UFMS)
-
 ---
-
 
 ### Links:
 
@@ -28,6 +20,15 @@
 [<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/gabrielcapela/)  -->
 
 * :page_facing_up: [Curriculum Vitae (Lattes)](http://lattes.cnpq.br/9498483432817080)
+
+---
+
+  ### **Academic Background:**
+
+- Currently pursuing a Master’s degree in **Operational Research** at Fluminense Federal University (UFF)
+- Bachelor's degree in **Naval Sciences** with an emphasis in Electronics from the Brazilian Naval School
+- Postgraduate degree in **Operations Management and Logistic**s from the Federal University of Rio Grande
+- Currently studying an Associate Degree in **Data Science** at the Federal University of Mato Grosso do Sul (UFMS)
 ---
 
 ### Main Projects
