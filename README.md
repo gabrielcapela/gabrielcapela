@@ -8,7 +8,7 @@
 - :brazil: Living in Rio de Janeiro
 - :writing_hand: Write blogs on [Medium](https://medium.com/@gabrielcapela)
 
-  **Academic Background:**
+  ### **Academic Background:**
 
 - Currently pursuing a Master’s degree in Operational Research at Fluminense Federal University (UFF)
 - Bachelor's degree in Naval Sciences with an emphasis in Electronics from the Brazilian Naval School
