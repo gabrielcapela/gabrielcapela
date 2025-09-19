@@ -25,7 +25,7 @@
 
   ### **Academic Background:**
 
-- Currently pursuing a Master’s degree in **Operational Research** at Fluminense Federal University (UFF)
+- Currently pursuing a Master’s degree in **Operations Research** at Fluminense Federal University (UFF)
 - Bachelor's degree in **Naval Sciences** with an emphasis in Electronics from the Brazilian Naval School
 - Postgraduate degree in **Operations Management and Logistic**s from the Federal University of Rio Grande
 - Currently studying an Associate Degree in **Data Science** at the Federal University of Mato Grosso do Sul (UFMS)
