@@ -4,7 +4,7 @@
 </p>
 
 
-- :computer: Data Science, Machine Learning and Operations Research 
+- :computer: Optimization and Data Science
 - :brazil: Living in Rio de Janeiro
 - :writing_hand: Write blogs on [Medium](https://medium.com/@gabrielcapela)
 
